@@ -1,7 +1,4 @@
 
-Spring:
-  application:
-    name: Config-dev
 eureka:
   client:
     service-url:
